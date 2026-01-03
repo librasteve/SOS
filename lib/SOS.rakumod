@@ -3,6 +3,8 @@ unit class SOS;
 
 =begin pod
 
+I<Please note that this doc is generated from lib/SOS.rakumod by App::Mi6>
+
 =head1 NAME
 
 SOS - blah blah blah
