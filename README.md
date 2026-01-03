@@ -1,5 +1,7 @@
 [![Actions Status](https://github.com/librasteve/SOS/actions/workflows/test.yml/badge.svg)](https://github.com/librasteve/SOS/actions)
 
+*Please note that this doc is generated from lib/SOS.rakumod by App::Mi6*
+
 NAME
 ====
 
@@ -20,7 +22,7 @@ SOS is ...
 AUTHORS
 =======
 
-librasteve <librasteve@furnival.net>,  nige123
+librasteve <librasteve@furnival.net> nige123
 
 COPYRIGHT AND LICENSE
 =====================
